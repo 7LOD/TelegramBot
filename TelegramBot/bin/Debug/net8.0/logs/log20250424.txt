@@ -1,0 +1,888 @@
+2025-04-24 12:02:34.215 +03:00 [INF] Прогрмамма запустилась
+2025-04-24 12:02:34.265 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 12:02:36.078 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:37.102 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:02:37.187 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:38.249 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:02:38.251 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 12:02:38.660 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:39.672 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:40.681 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:41.833 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:43.005 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:02:43.007 +03:00 [INF] Вводимо данные
+2025-04-24 12:02:43.144 +03:00 [INF] Переходимо далее
+2025-04-24 12:02:43.207 +03:00 [INF] Подтверджение особы
+2025-04-24 12:02:43.218 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:46.729 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:47.740 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:02:48.243 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:49.254 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:50.276 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:02:50.278 +03:00 [INF] Переходимо в 'Мої митні декларації'
+2025-04-24 12:02:50.364 +03:00 [INF] Получаемо список деклараций за этот месяц
+2025-04-24 12:02:50.371 +03:00 [INF] Вводимо дату відколи буде формувати список
+2025-04-24 12:02:50.384 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:51.396 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:52.417 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:53.442 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:54.465 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:55.477 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:56.497 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:57.507 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:58.529 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:02:59.549 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:00.562 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:01.573 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:02.595 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:03.610 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:04.622 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:10.988 +03:00 [INF] Прогрмамма запустилась
+2025-04-24 12:03:11.041 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 12:03:12.688 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:13.713 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:03:13.818 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:14.842 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:03:14.843 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 12:03:15.239 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:16.252 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:17.261 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:18.396 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:19.408 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:03:19.410 +03:00 [INF] Вводимо данные
+2025-04-24 12:03:19.560 +03:00 [INF] Переходимо далее
+2025-04-24 12:03:19.623 +03:00 [INF] Подтверджение особы
+2025-04-24 12:03:19.634 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:23.209 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:24.231 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:03:24.813 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:25.830 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:26.842 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:03:26.844 +03:00 [INF] Переходимо в 'Мої митні декларації'
+2025-04-24 12:03:26.929 +03:00 [INF] Получаемо список деклараций за этот месяц
+2025-04-24 12:03:26.936 +03:00 [INF] Вводимо дату відколи буде формувати список
+2025-04-24 12:03:26.948 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:27.965 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:28.989 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:30.008 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:31.024 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:32.045 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:33.064 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:03:34.084 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:38.266 +03:00 [INF] Прогмамма запустилась
+2025-04-24 12:09:38.317 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 12:09:39.887 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:40.912 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:09:41.004 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:42.057 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:09:42.059 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 12:09:42.502 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:43.523 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:44.539 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:45.614 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:46.634 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:09:46.636 +03:00 [INF] Вводимо данные
+2025-04-24 12:09:46.815 +03:00 [INF] Переходимо далее
+2025-04-24 12:09:46.871 +03:00 [INF] Подтверджение особы
+2025-04-24 12:09:46.883 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:50.429 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:51.440 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:09:52.110 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:53.137 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:54.149 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:55.160 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:56.180 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:09:56.181 +03:00 [INF] Переходимо в 'Мої митні декларації'
+2025-04-24 12:09:56.269 +03:00 [INF] Получаемо список деклараций за этот месяц
+2025-04-24 12:09:56.276 +03:00 [INF] Вводимо дату відколи буде формувати список
+2025-04-24 12:09:56.298 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:57.317 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:58.345 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:09:59.366 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:00.387 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:01.403 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:02.430 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:03.443 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:04.464 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:05.483 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:06.496 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:07.527 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:08.545 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:09.572 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:10.598 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:11.658 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:12.692 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:13.713 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:14.740 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:15.771 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:16.808 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:17.826 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:18.854 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:19.880 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:20.901 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:21.925 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:22.947 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:23.967 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:24.990 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:26.012 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:27.029 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:28.056 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:29.074 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:30.098 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:31.116 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:32.139 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:33.165 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:34.185 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:35.211 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:36.235 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:37.260 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:38.283 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:39.311 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:40.333 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:41.351 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:42.377 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:43.403 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:44.424 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:45.451 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:46.473 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:47.489 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:48.512 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:49.537 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:50.564 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:51.593 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:52.616 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:53.637 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:54.660 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:55.685 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:56.712 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:57.742 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:58.762 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:10:59.783 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:00.810 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:01.823 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:02.848 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:03.873 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:04.898 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:05.914 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:06.934 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:07.957 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:08.980 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:10.009 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:11.034 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:12.055 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:13.081 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:14.103 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:15.124 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:16.139 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:17.166 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:18.199 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:19.215 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:20.242 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:21.269 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:22.292 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:23.322 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:24.343 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:25.370 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:26.394 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:27.410 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:28.424 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:29.447 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:30.472 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:31.497 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:32.514 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:33.528 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:34.554 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:35.567 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:36.580 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:37.603 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:38.618 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:39.639 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:40.667 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:41.691 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:42.715 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:43.745 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:44.767 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:45.789 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:46.808 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:47.829 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:48.850 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:49.875 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:50.897 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:51.917 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:52.943 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:53.964 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:54.984 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:56.003 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:57.027 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:58.052 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:11:59.078 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:00.094 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:01.122 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:02.140 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:03.163 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:04.185 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:05.203 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:06.229 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:07.250 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:08.274 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:09.301 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:10.314 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:11.342 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:12.371 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:13.388 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:14.405 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:15.441 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:16.459 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:17.475 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:18.489 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:19.504 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:20.532 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:21.551 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:22.571 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:23.593 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:24.615 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:25.638 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:26.654 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:27.678 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:28.701 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:29.729 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:30.748 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:31.774 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:32.802 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:33.816 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:34.843 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:35.872 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:36.887 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:37.913 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:38.930 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:39.949 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:40.964 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:41.993 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:43.021 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:44.045 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:45.065 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:46.082 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:47.110 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:48.137 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:49.162 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:50.186 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:51.214 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:52.242 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:53.264 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:54.292 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:55.311 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:56.334 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:57.355 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:58.370 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:12:59.387 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:00.404 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:01.421 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:02.447 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:03.474 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:04.489 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:05.505 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:06.525 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:07.541 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:08.559 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:09.585 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:10.610 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:11.638 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:12.657 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:13.672 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:14.693 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:15.709 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:16.730 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:17.751 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:18.776 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:19.802 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:20.830 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:21.849 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:22.864 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:23.877 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:24.896 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:25.919 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:26.947 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:27.964 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:28.979 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:30.006 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:31.027 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:32.050 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:33.065 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:34.092 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:35.117 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:36.142 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:37.158 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:38.181 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:39.204 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:40.229 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:41.248 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:42.271 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:43.286 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:44.315 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:45.331 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:46.352 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:47.366 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:48.391 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:49.417 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:50.443 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:51.467 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:52.487 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:53.525 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:54.549 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:55.576 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:56.599 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:57.620 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:58.647 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:13:59.661 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:00.683 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:01.708 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:02.733 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:03.757 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:04.776 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:05.801 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:06.827 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:07.851 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:08.865 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:09.884 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:10.907 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:11.932 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:12.957 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:13.981 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:14.997 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:16.019 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:17.044 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:18.065 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:19.087 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:20.107 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:21.125 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:22.147 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:23.175 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:24.196 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:25.216 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:26.232 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:27.259 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:28.299 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:29.325 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:30.346 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:31.369 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:32.397 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:33.426 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:34.445 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:35.469 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:36.492 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:37.511 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:38.533 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:39.551 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:40.566 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:41.580 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:42.605 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:43.620 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:44.649 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:45.672 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:46.700 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:47.728 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:48.756 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:49.787 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:50.814 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:51.840 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:52.868 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:53.887 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:54.903 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:55.921 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:56.944 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:57.957 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:14:58.985 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:00.000 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:01.026 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:02.055 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:03.077 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:04.101 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:05.123 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:06.145 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:07.166 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:08.181 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:09.195 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:10.221 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:11.241 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:12.266 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:13.290 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:14.317 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:15.333 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:15:16.356 +03:00 [ERR] Виникла помилка при вході на сайт cabinet
+OpenQA.Selenium.WebDriverException: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.96)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElements(String mechanism, String value)
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 117
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckElementsIsDisable(By by) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 127
+   at Cabinet.CheckDecklaration(DateTime date, Int32 day) in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 101
+   at Cabinet.GoToSite() in C:\Users\ukhal\Source\Repos\Bot\TelegramBot\TelegramBot\Program.cs:line 85
+2025-04-24 12:16:11.209 +03:00 [INF] Прогмамма запустилась
+2025-04-24 12:16:11.281 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 12:16:14.382 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:16:15.406 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:16:15.524 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:16:16.549 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:16:16.550 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 12:16:16.975 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:16:17.999 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:16:19.012 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:16:20.147 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:16:21.162 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:16:21.164 +03:00 [INF] Вводимо данные
+2025-04-24 12:16:21.312 +03:00 [INF] Переходимо далее
+2025-04-24 12:16:21.366 +03:00 [INF] Подтверджение особы
+2025-04-24 12:16:21.378 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:16:25.031 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:16:26.052 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:16:44.174 +03:00 [INF] Данні користувача загрузились корректно!
+2025-04-24 12:17:10.943 +03:00 [INF] Прогмамма запустилась
+2025-04-24 12:17:11.013 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 12:17:13.668 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:14.685 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:17:14.758 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:15.780 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:17:15.781 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 12:17:16.199 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:17.224 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:18.238 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:19.260 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:20.276 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:17:20.278 +03:00 [INF] Вводимо данные
+2025-04-24 12:17:20.427 +03:00 [INF] Переходимо далее
+2025-04-24 12:17:20.480 +03:00 [INF] Подтверджение особы
+2025-04-24 12:17:20.490 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:24.173 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:25.194 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:17:27.285 +03:00 [INF] Данні користувача загрузились корректно!
+2025-04-24 12:17:27.297 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:17:27.298 +03:00 [INF] Переходимо в 'Мої митні декларації'
+2025-04-24 12:17:27.408 +03:00 [INF] Получаемо список деклараций за этот месяц
+2025-04-24 12:17:27.413 +03:00 [INF] Вводимо дату відколи буде формувати список
+2025-04-24 12:17:27.425 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:17:28.438 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:17:28.557 +03:00 [INF] Обираемо потрібну особу або фірму
+2025-04-24 12:17:28.933 +03:00 [INF] Формуємо список на сайті
+2025-04-24 12:23:51.116 +03:00 [INF] Прогмамма запустилась
+2025-04-24 12:23:51.169 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 12:23:53.456 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:23:54.467 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:23:55.479 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:23:55.562 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:23:56.580 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:23:56.581 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 12:23:56.990 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:23:58.013 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:23:59.025 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:00.049 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:01.069 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:24:01.071 +03:00 [INF] Вводимо данные
+2025-04-24 12:24:01.220 +03:00 [INF] Переходимо далее
+2025-04-24 12:24:01.277 +03:00 [INF] Подтверджение особы
+2025-04-24 12:24:01.288 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:04.939 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:05.953 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:24:06.583 +03:00 [INF] Данні користувача загрузились корректно!
+2025-04-24 12:24:06.596 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:07.607 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:08.629 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:24:08.630 +03:00 [INF] Переходимо в 'Мої митні декларації'
+2025-04-24 12:24:08.714 +03:00 [INF] Получаемо список деклараций за этот месяц
+2025-04-24 12:24:08.720 +03:00 [INF] Вводимо дату відколи буде формувати список
+2025-04-24 12:24:08.734 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:09.744 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:10.762 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:11.780 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:12.815 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:13.873 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:14.904 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:15.919 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:16.937 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:17.964 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:18.977 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:19.998 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:21.022 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:22.039 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:23.065 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:32.038 +03:00 [INF] Прогмамма запустилась
+2025-04-24 12:24:32.116 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 12:24:34.981 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:36.006 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:24:36.090 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:37.121 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:24:37.123 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 12:24:37.475 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:38.490 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:39.505 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:40.525 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:41.538 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 12:24:41.539 +03:00 [INF] Вводимо данные
+2025-04-24 12:24:41.690 +03:00 [INF] Переходимо далее
+2025-04-24 12:24:41.751 +03:00 [INF] Подтверджение особы
+2025-04-24 12:24:41.761 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:45.540 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 12:24:46.558 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:56:43.580 +03:00 [INF] Прогмамма запустилась
+2025-04-24 23:56:44.364 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 23:56:47.473 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:56:48.501 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:56:48.594 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:56:49.623 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:56:49.627 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 23:56:50.034 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:56:51.051 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:56:52.063 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:56:53.168 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:56:54.183 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:56:54.185 +03:00 [INF] Вводимо данные
+2025-04-24 23:56:54.332 +03:00 [INF] Переходимо далее
+2025-04-24 23:56:54.391 +03:00 [INF] Подтверджение особы
+2025-04-24 23:56:54.403 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:56:57.928 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:56:58.946 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:57:06.174 +03:00 [INF] Данні користувача загрузились корректно!
+2025-04-24 23:57:23.011 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:58:34.286 +03:00 [INF] Прогмамма запустилась
+2025-04-24 23:58:34.342 +03:00 [INF] Пробуемо зайти на сайт Cabinet
+2025-04-24 23:58:36.193 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:37.213 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:58:37.293 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:38.314 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:58:38.316 +03:00 [INF] Переходимо у вибор через що будемо заходити
+2025-04-24 23:58:38.715 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:39.735 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:40.750 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:42.004 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:43.132 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:58:43.134 +03:00 [INF] Вводимо данные
+2025-04-24 23:58:43.261 +03:00 [INF] Переходимо далее
+2025-04-24 23:58:43.319 +03:00 [INF] Подтверджение особы
+2025-04-24 23:58:43.329 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:48.767 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:49.785 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:58:50.344 +03:00 [INF] Данні користувача загрузились корректно!
+2025-04-24 23:58:50.354 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:51.374 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:52.398 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:58:52.399 +03:00 [INF] Переходимо в 'Мої митні декларації'
+2025-04-24 23:58:52.480 +03:00 [INF] Получаемо список деклараций за этот месяц
+2025-04-24 23:58:52.486 +03:00 [INF] Вводимо дату відколи буде формувати список
+2025-04-24 23:58:52.498 +03:00 [WRN] Елемент ще не загрузився
+2025-04-24 23:58:53.516 +03:00 [INF] Елемент успішно загрузився
+2025-04-24 23:58:53.617 +03:00 [INF] Обираемо потрібну особу або фірму
+2025-04-24 23:58:53.994 +03:00 [INF] Формуємо список на сайті
